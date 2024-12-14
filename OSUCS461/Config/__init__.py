@@ -36,8 +36,8 @@ MySQL = {
 	'local' : {
 		'host' : '127.0.0.1',
 		'port' : 3306,
-		"user": "xxx",
-        "passwd": "xxxx",
+		"user": "root",
+        "passwd": "password",
  		'db' : 'osucs461'
 	},
 	'sandbox' : {
